@@ -1,6 +1,6 @@
 # PageSpeed
 
-This script generates the PageSpeed API results for a website.
+This script generates the PageSpeed API results for a website. 
 
 ## Packages required:
 
